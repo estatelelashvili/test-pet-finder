@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-pet-finder/static/css/main.073c9b0a.css",
-    "main.js": "/test-pet-finder/static/js/main.e222aef8.js",
+    "main.js": "/test-pet-finder/static/js/main.8f8de4af.js",
     "static/js/787.1c3abf6b.chunk.js": "/test-pet-finder/static/js/787.1c3abf6b.chunk.js",
     "index.html": "/test-pet-finder/index.html",
     "main.073c9b0a.css.map": "/test-pet-finder/static/css/main.073c9b0a.css.map",
-    "main.e222aef8.js.map": "/test-pet-finder/static/js/main.e222aef8.js.map",
+    "main.8f8de4af.js.map": "/test-pet-finder/static/js/main.8f8de4af.js.map",
     "787.1c3abf6b.chunk.js.map": "/test-pet-finder/static/js/787.1c3abf6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e222aef8.js"
+    "static/js/main.8f8de4af.js"
   ]
 }
